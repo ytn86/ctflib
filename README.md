@@ -5,6 +5,6 @@
 CTF Tool for pwn.
 
 
-## Licence
+## License
 
 MIT
